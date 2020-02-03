@@ -78,3 +78,8 @@ body {
 .panel.open{
     font-size: 40px;
 }
+
+.cta {
+    color:white;
+    text-decoration: none;
+}
