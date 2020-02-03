@@ -1,5 +1,5 @@
 const panels = document.querySelectorAll('.panels')
 
-function toggleOpen {
+function toggleOpen() {
     this.classList.toggle('open');
 }
