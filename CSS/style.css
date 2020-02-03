@@ -13,3 +13,8 @@ body {
 *,*:before, *:after {
     box-sizing: inherit;
 }
+
+.panel {
+    min-height: 100vh;
+    overflow: hidden;
+}
